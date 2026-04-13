@@ -41,13 +41,13 @@
 
 > *Скриншоты интерфейса можно добавить в папку `screenshots` и вставить сюда ссылки.*
 
-Главное окно:
+Главное окно программы:
 
-![Main window](screenshots/main.png)
+![Главное окно Sleep Timer](screenshots/main_window.png)
 
-Диалог проверки активности:
+Диалоговое окно при обнаружении активности:
 
-![Dialog](screenshots/dialog.png)
+![Диалог проверки активности](screenshots/dialog_window.png)
 
 ---
 
