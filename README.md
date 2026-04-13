@@ -2,7 +2,6 @@
 
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows)](https://www.microsoft.com/windows)
 [![Python: 3.6+](https://img.shields.io/badge/python-3.6+-blue?logo=python)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 **Sleep Timer** – это легковесное приложение с графическим интерфейсом, которое помогает засыпать под видео или музыку, автоматически выключая компьютер после заданного времени. Программа проверяет активность пользователя, чтобы случайно не прервать просмотр, и даёт возможность продлить таймер при необходимости.
 
